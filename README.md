@@ -1,9 +1,9 @@
+**`Abduallah AL-Dawsari / Fullstack Developer`**
 <div align="center">
 <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">I'm Abduallah, a full-time full-stack developer 👨‍💻.</div>  
+### <div align="center">I'm Abduallah, a full-time Fullstack developer 👨‍💻.</div>  
   
 
 <br/>  
